@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+Lib/*
+Scripts/*
+share/*
+InputFiles/*
+*.zip
+*.pdf
+*.docx
+__pycache__/*
+Assign_3_Anurag_Kallurwar_Neel_Chaudhary/*
